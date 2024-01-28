@@ -1,0 +1,54 @@
+body{
+    background-color: #F8F4EC;
+    font-family: sans-serif;
+}
+input{
+    border: 2px solid black ;
+    border-radius: 5px;
+}
+legend{
+    border: 2px solid black;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+#address{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+button{
+    border: 2px solid blue;
+    border-radius: 100px;
+    text-align: center;
+    margin-left: 680px;
+    font-size: 20px;
+}
+h1{
+    border: 3px solid black;
+    margin: auto;
+    margin-bottom: 20px;
+    text-align: center;
+    color: antiquewhite;
+    background-color: #4942E4;
+    border-radius: 100px;
+}
+h2{
+    border: 3px solid black;
+    color: antiquewhite;
+    text-align: center;
+    padding: 2px;
+    background-color: #11009E;
+    font-size: 30px;
+    border-radius: 100px;
+    
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    color: black;
+}
+
+.info{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
